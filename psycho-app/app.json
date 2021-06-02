@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "PsychoPaint",
+    "slug": "psycho-paint",
+    "version": "2.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/drawcdt1.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "isTabletOnly": true,
+      "bundleIdentifier": "dev.pcp.psychopaint",
+      "buildNumber": "2.3.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/drawcdt1.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "dev.pcp.psychopaint",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/drawcdt1.png"
+    }
+  }
+}

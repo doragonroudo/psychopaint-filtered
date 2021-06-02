@@ -1,0 +1,4 @@
+train_app_*
+models*
+.env
+__pycache__
