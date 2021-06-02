@@ -1,4 +1,4 @@
-## This repo consist of 2 parts
+## This repo consists of 2 parts
 - model-api : API for AI's prediction (No exported models in repo)
 - psycho-app : Web App (React Native Expo CLI)
 
